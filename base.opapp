@@ -29,5 +29,5 @@ __opapp_include(templates/tetris.html)
 __opapp_include(main.js)
 
 [css]
-__opapp_include(../lib/css/set/optinomic_material.m4)
+__opapp_include(lib/css/set/optinomic_material.m4)
 __opapp_include(style.css)
